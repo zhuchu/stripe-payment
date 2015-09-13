@@ -55,3 +55,5 @@ gem 'bootstrap-sass'
 
 #user stripe for online payment
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
+
+gem 'figaro'
